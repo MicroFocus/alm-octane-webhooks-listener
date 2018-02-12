@@ -6,6 +6,10 @@
   "scripts": {
     "start": "node app"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.houston.softwaregrp.net/michael-gustus/alm-octane-webhooks-listener.git"
+  },
   "author": "Michael Gustus <michael.gustus@microfocus.com>",
   "license": "Apache-2.0",
   "dependencies": {
