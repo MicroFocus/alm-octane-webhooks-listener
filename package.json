@@ -1,0 +1,20 @@
+{
+  "name": "alm-octane-webhooks-listener",
+  "version": "1.0.0",
+  "description": "ALM Octane webhooks listener",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "author": "Michael Gustus <michael.gustus@microfocus.com>",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "optimist": "0.6.x",
+    "portfinder": "^1.0.13",
+    "basic-auth": "^2.0.0",
+    "cliui": "^4.0.0",
+    "moment": "^2.20.1",
+    "express": "^4.16.2"
+  }
+}
