@@ -1,4 +1,5 @@
-# alm-octane-webhooks-listener: http listener for ALM Octane webhooks with basic authentication
+# alm-octane-webhooks-listener
+HTTP listener for ALM Octane webhooks with basic authentication.
 
 ## Installation:
 
