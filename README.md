@@ -6,6 +6,7 @@ HTTP listener for ALM Octane webhooks with basic authentication.
 Checkout this repository locally. In the alm-octane-webhooks-listener directory run:
 
     npm install
+Note: this application requires Node.js v7.10.1 or later.
 
 ## Usage:
 
