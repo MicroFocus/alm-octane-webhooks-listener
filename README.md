@@ -9,6 +9,7 @@ Checkout this repository locally. In the alm-octane-webhooks-listener directory 
 Note: this application requires Node.js v7.10.1 or later.
 
 ## Usage:
+In the alm-octane-webhooks-listener directory run:
 
 	node app [options]
 
