@@ -19,7 +19,7 @@ Note: this application requires Node.js v7.10.1 or later.
 	-p             Password for basic authentication (default: none)
 	---verbose     Print request headers and body (default: no)
 
-	--help         Print help and exit.',
+	--help         Print help and exit
 
 #### Example:
     node app --port=8090 --verbose -u user@domain -p secret
