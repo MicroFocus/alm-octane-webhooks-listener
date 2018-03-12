@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.houston.softwaregrp.net/michael-gustus/alm-octane-webhooks-listener.git"
+    "url": "https://github.com/MicroFocus/alm-octane-webhooks-listener"
   },
   "author": "Michael Gustus <michael.gustus@microfocus.com>",
   "license": "Apache-2.0",

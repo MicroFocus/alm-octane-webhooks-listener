@@ -18,7 +18,7 @@ In the alm-octane-webhooks-listener directory run:
 	--rcode        Response status code (default: 200)
 	-u             Username for basic authentication (default: none)
 	-p             Password for basic authentication (default: none)
-	---verbose     Print request headers and body (default: no)
+	--verbose     Print request headers and body (default: no)
 
 	--help         Print help and exit
 
